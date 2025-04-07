@@ -74,7 +74,7 @@ h1 {
     color: rgb(217, 217, 217); 
     background-color: rgb(20, 12, 12);
     text-align: center;
-    margin-top: 6cm;
+    margin-top: 5cm;
 }
 
 #Info_Selector {
@@ -83,7 +83,7 @@ h1 {
 }
 
 #hello > div {
-    padding: 4rem; 
+    padding: 3rem; 
     font-size: 30px;
     border: 1px rgb(30, 17, 17) solid;
     border-radius: 20px;
